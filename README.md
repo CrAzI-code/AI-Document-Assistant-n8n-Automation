@@ -140,6 +140,9 @@ Perfect for showcasing AI engineering + automation experience.
 **Author**
 
 Obiora Emmanuel Ikechukwu
+
 AI Automation • n8n Developer • Security & Data Enthusiast
+
 GitHub: https://github.com/CrAzI-code
+
 LinkedIn: https://www.linkedin.com/in/emmanuel-obiora-93116318b/
