@@ -137,7 +137,7 @@ Practical problem-solving
 Perfect for showcasing AI engineering + automation experience.
 
 
-**Author**
+# Author
 
 Obiora Emmanuel Ikechukwu
 
