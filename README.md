@@ -80,14 +80,19 @@ short-term memory buffer
 
 …to answer document-specific questions.
 
+
+
 **Workflow Overview**
 
 <img width="3836" height="2027" alt="Screenshot 2025-11-18 165922" src="https://github.com/user-attachments/assets/a34a2a0f-2222-41e5-afe6-4727aa78bc41" />
+
+
 
 **AI Response Example**
 
 
 <img width="3501" height="1486" alt="Screenshot 2025-11-18 165750" src="https://github.com/user-attachments/assets/295a69f2-1648-4628-9b7c-499f5d107030" />
+
 <img width="3730" height="1861" alt="Screenshot 2025-11-18 165840" src="https://github.com/user-attachments/assets/85f0e7eb-16e5-4074-a12a-28fe89262876" />
 
 
